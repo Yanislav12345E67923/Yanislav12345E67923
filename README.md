@@ -1,6 +1,6 @@
 ### Hi there, I am Yanislav Marinov👋
 
-A am student in the matematition school and there I am learning system programming. At the same time I am studying at Softuni(software university). There am learning C# web development and other .NET technologies.`
+A am a student in the matematition school and there I am learning system programming. At the same time I am studying at Softuni(software university). There am learning C# web development and other .NET technologies.`
 <!--
 **Yanislav12345E67923/Yanislav12345E67923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
