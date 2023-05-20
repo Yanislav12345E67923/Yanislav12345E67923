@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ds.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenov/) 
 
 ### GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" />
 
 ### GitHub Trophies
 
