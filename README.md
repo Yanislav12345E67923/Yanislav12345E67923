@@ -1,6 +1,6 @@
 ### Hi, I am Yanislav Marinov! 👋
 
-A am a student in the matematition school and there I am learning system programming. At the same time I am studying at Softuni(software university). There am learning C# web development and other .NET technologies.
+A am a student in the matematition school and there I am learning system programming. At the same time I am studying at Softuni(software university). There I am learning C# web development and other .NET technologies.
 
 ### GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanislav12345E67923&layout=compact&hide_border=true" />
