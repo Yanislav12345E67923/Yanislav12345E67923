@@ -8,6 +8,9 @@ A am a student in the matematition school and there I am learning system program
 ### GitHub Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Yanislav12345E67923&rank=-C,-B" alt="GitHub Trophies" />
 
+My certificates
+https://softuni.bg/certificates/details/159243/e35ac3f6
+https://softuni.bg/certificates/details/179545/a5e205ee
 <!--
 **Yanislav12345E67923/Yanislav12345E67923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
